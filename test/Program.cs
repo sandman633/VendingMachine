@@ -16,6 +16,7 @@ namespace test
             //coin.AddCoin(5);
             //coin.Checkin();
             //Console.ReadKey();
+            //AHAHAHHA
         }
     }
 }
